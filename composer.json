@@ -1,0 +1,16 @@
+{
+    "name": "afeijo/dc19-scaffold",
+    "description": "Scaffold files test for contrib modules",
+    "type": "project",
+    "require": {
+        "drupal/core": "8.8.x"
+    },
+    "minimum-stability": "alpha",
+    "extra": {
+        "drupal-scaffold": {
+            "file-mapping": {
+                "[project-root]/RELEASE.md": "RELEASE.md"
+            }
+        }
+    }
+}
