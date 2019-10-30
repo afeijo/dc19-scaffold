@@ -8,6 +8,9 @@
     "minimum-stability": "alpha",
     "extra": {
         "drupal-scaffold": {
+            "allowed-packages": [
+                "afeijo/dc19-scaffold"
+            ],
             "file-mapping": {
                 "[project-root]/RELEASE.md": "RELEASE.md"
             }
